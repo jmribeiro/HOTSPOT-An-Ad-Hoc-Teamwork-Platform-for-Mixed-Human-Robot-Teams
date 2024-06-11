@@ -1,0 +1,8 @@
+numpy
+pyttsx3
+pyaudio
+wave
+webrtcvad==2.0.10
+SoundFile==0.10.3.post1
+SpeechRecognition==3.8.1
+simpleaudio==1.0.4

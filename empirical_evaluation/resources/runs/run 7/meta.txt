@@ -1,0 +1,4 @@
+date: 9/06/2021
+task: 1
+initial state: [1, 2, 0, 0, 0]
+legal: yes

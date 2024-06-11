@@ -1,0 +1,13 @@
+0: ""; no
+1: "vou para o baxter"; yes
+2: ""; no
+3: "vou por a bola na tua barriga"; no
+4: ""; no
+5: "vou para a mesa do joao"; yes
+6: "vou pegar na bola"; no
+7: "nada"; no
+8: ""; no
+9: "vou para o meio da sala"; yes
+10: ""; no
+11: "vou por a bola na tua barriga"; no
+12: "vou para a mesa do miguel"; yes

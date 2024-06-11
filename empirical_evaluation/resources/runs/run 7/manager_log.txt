@@ -1,0 +1,107 @@
+t: 0
+Dead Reckoning: [-0.15 -0.1 ]
+Robot Node: 3
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (3, -1, 0)
+
+t: 1
+Dead Reckoning: [-0.65 -1.95]
+Robot Node: 1
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (1, -1, 0)
+
+t: 2
+Dead Reckoning: None
+Robot Node: 1
+Spoken Text: vou colocar a bola dentro de ti aqui no Basket
+NER Location: Basket
+Human Node: -1
+RFID Sensor: False
+Observation: (1, -1, 0)
+
+t: 3
+Dead Reckoning: None
+Robot Node: 1
+Spoken Text: Ricardo Batista
+NER Location: ?
+Human Node: -1
+RFID Sensor: False
+Observation: (1, -1, 0)
+
+t: 4
+Dead Reckoning: [-1.85 -2.4 ]
+Robot Node: 2
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (2, -1, 0)
+
+t: 5
+Dead Reckoning: None
+Robot Node: 2
+Spoken Text: colocar a bola dentro de ti
+NER Location: ti
+Human Node: -1
+RFID Sensor: False
+Observation: (2, -1, 0)
+
+t: 6
+Dead Reckoning: [-0.65 -1.95]
+Robot Node: 1
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (1, -1, 0)
+
+t: 7
+Dead Reckoning: None
+Robot Node: 1
+Spoken Text: vou apanhar a bola no meio da sala
+NER Location: sala
+Human Node: 1
+RFID Sensor: False
+Observation: (1, 1, 0)
+
+t: 8
+Dead Reckoning: None
+Robot Node: 1
+Spoken Text: colocar a bola dentro de ti
+NER Location: ti
+Human Node: -1
+RFID Sensor: False
+Observation: (1, -1, 0)
+
+t: 9
+Dead Reckoning: None
+Robot Node: 1
+Spoken Text: para a mesa do Miguel
+NER Location: mesa do Miguel
+Human Node: 3
+RFID Sensor: False
+Observation: (1, 3, 0)
+
+t: 10
+Dead Reckoning: [-0.15 -0.1 ]
+Robot Node: 3
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (3, -1, 0)
+
+t: 11
+Dead Reckoning: None
+Robot Node: 3
+Spoken Text: pôr a bola dentro de ti Na mesa do Miguel
+NER Location: mesa do Miguel
+Human Node: 3
+RFID Sensor: False
+Observation: (3, 3, 0)

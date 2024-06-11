@@ -1,0 +1,17 @@
+0: ""; no
+1: ""; no
+2: "vou colocar a bola dentro de ti"; no
+3: ""; no
+4: "vou apanhar da bola"; no
+5: ""; no
+6: "vou ficar na porta"; yes
+7: ""; no
+8: ""; no
+9: "vou colocar a bola dentro de ti"; no
+10: ""; no
+11: ""; no
+12: ""; no
+13: ""; no
+14: ""; no
+15: ""; no
+16: "baxter"; no

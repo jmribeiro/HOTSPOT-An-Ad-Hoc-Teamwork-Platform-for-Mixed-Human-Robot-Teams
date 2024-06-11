@@ -1,0 +1,10 @@
+0: ""; no
+1: ""; no
+2: "vou por a bola na tua barriga"; no
+3: "vou para a mesa do ali"; yes
+4: ""; no
+5: "vou por a bola na tua barriga"; no
+6: ""; no
+7: "vou para a mesa do miguel"; yes
+8: ""; no
+9: "vou por a bola na tua barriga"; no

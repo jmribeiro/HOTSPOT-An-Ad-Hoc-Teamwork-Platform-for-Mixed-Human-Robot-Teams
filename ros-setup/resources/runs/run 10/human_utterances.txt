@@ -1,0 +1,15 @@
+0: ""; no
+1: ""; no
+2: "vou apanhar a bola"; no
+3: "vou colocar a bola"; no
+4: ""; no
+5: "vou ficar na porta"; yes
+6: ""; no
+7: ""; no
+8: "vou pegar a bola"; no
+9: ""; no
+10: "vou para o meio da sala"; yes
+11: "vou para o baxter"; yes
+12: "estou na mesa do ali"; yes
+13: ""; no
+14: "vou colocar a bola no seu cesto"; no

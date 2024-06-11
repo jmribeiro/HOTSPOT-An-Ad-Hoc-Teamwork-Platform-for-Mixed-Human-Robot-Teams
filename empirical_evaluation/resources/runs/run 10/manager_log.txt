@@ -1,0 +1,134 @@
+t: 0
+Dead Reckoning: [-0.15 -0.1 ]
+Robot Node: 3
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (3, -1, 0)
+
+t: 1
+Dead Reckoning: [-0.65 -1.95]
+Robot Node: 1
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (1, -1, 0)
+
+t: 2
+Dead Reckoning: None
+Robot Node: 1
+Spoken Text: vou apanhar a bola
+NER Location: bola
+Human Node: -1
+RFID Sensor: False
+Observation: (1, -1, 0)
+
+t: 3
+Dead Reckoning: None
+Robot Node: 1
+Spoken Text: vou colocar a bola
+NER Location: ?
+Human Node: -1
+RFID Sensor: False
+Observation: (1, -1, 0)
+
+t: 4
+Dead Reckoning: [-1.85 -2.4 ]
+Robot Node: 2
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (2, -1, 0)
+
+t: 5
+Dead Reckoning: None
+Robot Node: 2
+Spoken Text: vou ficar na porta
+NER Location: porta
+Human Node: 0
+RFID Sensor: False
+Observation: (2, 0, 0)
+
+t: 6
+Dead Reckoning: [-0.65 -1.95]
+Robot Node: 1
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (1, -1, 0)
+
+t: 7
+Dead Reckoning: [-1.05 -4.1 ]
+Robot Node: 0
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (0, -1, 0)
+
+t: 8
+Dead Reckoning: None
+Robot Node: 0
+Spoken Text: vou pegar a bola
+NER Location: ?
+Human Node: -1
+RFID Sensor: False
+Observation: (0, -1, 0)
+
+t: 9
+Dead Reckoning: [-0.65 -1.95]
+Robot Node: 1
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (1, -1, 0)
+
+t: 10
+Dead Reckoning: None
+Robot Node: 1
+Spoken Text: vou para o meio da sala
+NER Location: sala
+Human Node: 1
+RFID Sensor: False
+Observation: (1, 1, 0)
+
+t: 11
+Dead Reckoning: None
+Robot Node: 1
+Spoken Text: vou para o basquete
+NER Location: basquete
+Human Node: -1
+RFID Sensor: False
+Observation: (1, -1, 0)
+
+t: 12
+Dead Reckoning: None
+Robot Node: 1
+Spoken Text: estou na mesa do ali
+NER Location: mesa do ali
+Human Node: 2
+RFID Sensor: False
+Observation: (1, 2, 0)
+
+t: 13
+Dead Reckoning: [-1.85 -2.4 ]
+Robot Node: 2
+Spoken Text: None
+NER Location: None
+Human Node: -1
+RFID Sensor: False
+Observation: (2, -1, 0)
+
+t: 14
+Dead Reckoning: None
+Robot Node: 2
+Spoken Text: vou colocar a bola no seu cesto
+NER Location: cesto
+Human Node: -1
+RFID Sensor: False
+Observation: (2, -1, 0)

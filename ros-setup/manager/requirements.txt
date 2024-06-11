@@ -1,0 +1,12 @@
+networkx
+matplotlib
+numpy
+spacy
+pandas
+pyttsx3
+SpeechRecognition
+sounddevice
+plac
+pyyaml
+rospkg
+scipy

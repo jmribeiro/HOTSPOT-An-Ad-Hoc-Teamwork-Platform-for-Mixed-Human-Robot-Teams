@@ -1,0 +1,12 @@
+0: pick @ 2
+1: stay @ 2
+2: stay @ 2
+3: stay @ 2
+4: stay @ 2
+5: drop @ 2
+6: goto 1
+7: pick @ 1
+8: drop @ 2
+9: goto 3
+10: pick @ 3
+11: drop @ 3

@@ -1,0 +1,90 @@
+t: 0
+Action: move to third-lower-index node (#2)
+Observation: [ 1 -1] (#12)
+Beliefs: [0.5, 0.5] (1.0 entropy)
+MLPOMDP: ['porta', 'meio da sala', 'mesa do ali'] (#0)
+MLS: [1 1 0 0 0] (#64) (0.4 entropy)
+
+t: 1
+Action: locate human (#4)
+Observation: [1 1] (#14)
+Beliefs: [0.58563, 0.41437] (0.98 entropy)
+MLPOMDP: ['porta', 'meio da sala', 'mesa do ali'] (#0)
+MLS: [1 1 0 2 0] (#68) (0.23 entropy)
+
+t: 2
+Action: locate human (#4)
+Observation: [ 1 -1] (#12)
+Beliefs: [0.42996, 0.57004] (0.99 entropy)
+MLPOMDP: ['meio da sala', 'mesa do ali', 'mesa do miguel'] (#1)
+MLS: [1 2 2 0 0] (#78) (0.28 entropy)
+
+t: 3
+Action: locate human (#4)
+Observation: [ 1 -1] (#12)
+Beliefs: [0.24427, 0.75573] (0.8 entropy)
+MLPOMDP: ['meio da sala', 'mesa do ali', 'mesa do miguel'] (#1)
+MLS: [1 2 2 1 0] (#80) (0.26 entropy)
+
+t: 4
+Action: move to second-lower-index node (#1)
+Observation: [ 2 -1] (#18)
+Beliefs: [0.24427, 0.75573] (0.8 entropy)
+MLPOMDP: ['meio da sala', 'mesa do ali', 'mesa do miguel'] (#1)
+MLS: [2 2 2 1 0] (#132) (0.18 entropy)
+
+t: 5
+Action: locate human (#4)
+Observation: [2 0] (#19)
+Beliefs: [0.87621, 0.12379] (0.54 entropy)
+MLPOMDP: ['porta', 'meio da sala', 'mesa do ali'] (#0)
+MLS: [2 0 1 2 0] (#110) (0.1 entropy)
+
+t: 6
+Action: move to third-lower-index node (#2)
+Observation: [ 1 -1] (#12)
+Beliefs: [0.87621, 0.12379] (0.54 entropy)
+MLPOMDP: ['porta', 'meio da sala', 'mesa do ali'] (#0)
+MLS: [1 0 1 2 0] (#58) (0.1 entropy)
+
+t: 7
+Action: move to lower-index node (#0)
+Observation: [ 0 -1] (#6)
+Beliefs: [0.87621, 0.12379] (0.54 entropy)
+MLPOMDP: ['porta', 'meio da sala', 'mesa do ali'] (#0)
+MLS: [0 0 1 2 0] (#6) (0.1 entropy)
+
+t: 8
+Action: locate human (#4)
+Observation: [ 0 -1] (#6)
+Beliefs: [0.8016, 0.1984] (0.72 entropy)
+MLPOMDP: ['porta', 'meio da sala', 'mesa do ali'] (#0)
+MLS: [0 0 2 2 0] (#10) (0.13 entropy)
+
+t: 9
+Action: move to third-lower-index node (#2)
+Observation: [ 1 -1] (#12)
+Beliefs: [0.8016, 0.1984] (0.72 entropy)
+MLPOMDP: ['porta', 'meio da sala', 'mesa do ali'] (#0)
+MLS: [1 1 2 2 0] (#74) (0.14 entropy)
+
+t: 10
+Action: locate human (#4)
+Observation: [1 2] (#15)
+Beliefs: [0.9783, 0.0217] (0.15 entropy)
+MLPOMDP: ['porta', 'meio da sala', 'mesa do ali'] (#0)
+MLS: [1 2 2 2 0] (#85) (0.03 entropy)
+
+t: 11
+Action: move to second-lower-index node (#1)
+Observation: [ 2 -1] (#18)
+Beliefs: [0.9783, 0.0217] (0.15 entropy)
+MLPOMDP: ['porta', 'meio da sala', 'mesa do ali'] (#0)
+MLS: [2 2 2 2 1] (#138) (0.03 entropy)
+
+t: 12
+Action: locate human (#4)
+Observation: [ 2 -1] (#18)
+Beliefs: [0.9822, 0.0178] (0.13 entropy)
+MLPOMDP: ['porta', 'meio da sala', 'mesa do ali'] (#0)
+MLS: [2 2 2 2 2] (#139) (0.03 entropy)

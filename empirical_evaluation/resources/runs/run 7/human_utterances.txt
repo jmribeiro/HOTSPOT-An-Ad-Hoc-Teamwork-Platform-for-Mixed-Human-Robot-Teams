@@ -1,0 +1,12 @@
+0: ""; no
+1: ""; no
+2: "vou colocar a bola dentro de ti aqui no baxter"; yes
+3: "vou ficar no baxter"; yes
+4: ""; no
+5: "vou colocar a bola dentro de ti"; no
+6: ""; no
+7: "vou apanhar a bola no meio da sala"; yes
+8: "vou colocar a bola dentro de ti"; no
+9: "vou para a mesa do miguel"; yes
+10: ""; no
+11: "vou por a bola dentro de ti na mesa do miguel"; yes
